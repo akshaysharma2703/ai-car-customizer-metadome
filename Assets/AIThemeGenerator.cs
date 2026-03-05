@@ -12,7 +12,7 @@ public class AIThemeGenerator : MonoBehaviour
     public WheelCustomizer wheelCustomizer;
 
     string apiUrl = "https://api.openai.com/v1/chat/completions";
-    string apiKey = "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";
+    string apiKey = "ENTER YOUR API KEY";
 
 
     [System.Serializable]
